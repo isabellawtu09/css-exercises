@@ -1,17 +1,17 @@
-.Border {
+.black , .yellow {
 
 font-size:28px;
 font-family: Helvetica, "Times New Roman" , sans-serif;
 }
 
-.Border.black {
+.black {
 
 background-color: black;
 color: white;
 
 }
 
-.Border.yellow {
+.yellow {
 
 background-color: yellow;   
 color:black; 
