@@ -1,0 +1,25 @@
+.oddnumber {
+
+    background-color: salmon;
+    color:black;
+    font-family: Verdana, "DejaVu Sans" ,sans-serif;
+}
+
+
+.oddnumber.bigsize {
+    font-size: 24px;
+}
+
+
+
+#blue {
+    color:blue;
+    font-size: 36px;
+    
+}
+
+#green {
+    background-color: greenyellow;
+    font-size: 24px;
+    font-weight: bold;
+}
